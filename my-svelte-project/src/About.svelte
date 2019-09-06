@@ -2,7 +2,8 @@
 .about {
   margin-left: 160px;
   font-size: 28px; 
-  padding: 0px 10px;
+
+  background-color: #D29185;
 }
 
 </style>

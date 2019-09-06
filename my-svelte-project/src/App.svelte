@@ -7,9 +7,6 @@ import Contact from './Contact.svelte';
 </script>
 
 <style>
-body {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-}
 
 .sidenav {
   height: 100%;
@@ -35,9 +32,15 @@ body {
   color: #f1f1f1;
 }
 
+img {
+  width: 160px;
+  padding: 5px;
+}
+
 </style>
 
 <div class="sidenav">
+  <img alt="fox statue" src="fox-shape.png">
   <a href="#about">About</a>
   <a href="#skills">Skills</a>
   <a href="#projects">Projects</a>
