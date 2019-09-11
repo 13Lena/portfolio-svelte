@@ -10,5 +10,6 @@
 
 <div class="about">
   <h2>Lena Hamilton</h2>
+  <p></p>
   <img alt="Lena Hamilton's headshot" src="upright.jpg" width="35%">
 </div>
